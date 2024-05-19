@@ -9,7 +9,7 @@ This is a Node.js server that responds to a single route: `GET /I/want/title`. T
 2. Clone this repository and navigate into the project directory:
 
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/hamzasial1911/web-title-server.git
     cd web-titles-server
     ```
 
